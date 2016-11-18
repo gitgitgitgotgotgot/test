@@ -5,3 +5,4 @@ line4_edited
 line5
 line6
 line7
+line8_added_in_new_branch
